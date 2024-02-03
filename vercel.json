@@ -2,7 +2,7 @@
   "functions": {
     "api/*.php": {
       "runtime": "vercel-php@0.6.0"
-      {
+   {
   "build": {
     "env": {
       "PHP_VERSION": "7.4" // 替换为你使用的 PHP 版本
