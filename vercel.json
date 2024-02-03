@@ -8,7 +8,7 @@
 {
   "build": {
     "env": {
-      "PHP_VERSION": "7.4" // 替换为你使用的 PHP 版本
+      "PHP_VERSION": "8.2" // 替换为你使用的 PHP 版本
     },
     "commands": [
       {
